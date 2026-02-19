@@ -11,8 +11,8 @@
  * Distance (cm) = (Time × Speed of Sound) / 2
  * Speed of Sound ≈ 0.034 cm/µs
  *
- * @author Bhartendu Ji
- * @date 18 Feb 2026
+ * @author Jagriti Gupta
+ * @date 19 Feb 2026
  */
 // Pin Definitions
 int trigPin = 9;   ///< Trigger pin connected to digital pin 9
